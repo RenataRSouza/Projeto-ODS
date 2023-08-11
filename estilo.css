@@ -6,3 +6,6 @@ body{background-color: aquamarine;}
 div{border: 5px black solid}
 #section{color: darkslategray;}
 section{border: 5px black solid;}
+ul {list-style-type: none;}
+li {display: inline;}
+
