@@ -8,4 +8,20 @@ div{border: 5px black solid}
 section{border: 5px black solid;}
 ul {list-style-type: none;}
 li {display: inline;}
-
+header {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    padding: 1% 5%;
+    order: 1;
+}
+li,
+        a,
+        button {
+            font-family: "Montserrat", sans-serif;
+            font-weight: 800;
+            font-size: 15px;
+            color: rgb(221, 17, 17);
+            text-decoration: none;
+                    }
+                                    
